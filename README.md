@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called Morales Research Corp.
 
