@@ -4,7 +4,7 @@
 
 👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux. [Sun/OS Linux and Mainframe/OS Enterprise Linux]https://gitlab.com/morales-research-corporation
 
-🏃 I'm currently learning Python, JavaScript, Dart, Flutter, Rust, and C (In progress).
+🏃 I'm currently learning Python, JavaScript, Dart, Flutter, GoLang, Rust, and C (In progress).
 
 🛠 I'm looking to collaborate on the Linux Kernel in drivers or memory allocation
 
