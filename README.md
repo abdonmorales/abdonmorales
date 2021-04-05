@@ -1,17 +1,18 @@
 ### Hi there 👋
-My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called Morales Research Corp.
 
-I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux. (Sun/OS Linux and Mainframe/OS Enterprise Linux)
+😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called Morales Research Corp.
 
-I'm currently learning Python, JavaScript, Dart, Flutter, Rust, and C (In progress).
+👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux. (Sun/OS Linux and Mainframe/OS Enterprise Linux)
 
-I'm looking to collaborate on the Linux Kernel in drivers
+🏃 I'm currently learning Python, JavaScript, Dart, Flutter, Rust, and C (In progress).
 
-Ask me about computers and new bleeding edge UI changes in GNOME, KDE, or Ubuntu Yaru.
+🛠 I'm looking to collaborate on the Linux Kernel in drivers
 
-Fun fact: I started to learn code when I first used my new computer in early 2015/2012
+🖥 Ask me about computers and new bleeding edge UI changes in GNOME, KDE, or Ubuntu Yaru.
 
-How to reach me: abdon.morales13_2022@outlook.com
+💾 Fun fact: I started to learn code when I first used my new computer in early 2015/2012
+
+☎️ How to reach me: abdon.morales13_2022@outlook.com
 <!--
 **abdonmorales/abdonmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
