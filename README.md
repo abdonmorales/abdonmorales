@@ -6,7 +6,7 @@
 
 🏃 I'm currently learning Python, JavaScript, Dart, Flutter, Rust, and C (In progress).
 
-🛠 I'm looking to collaborate on the Linux Kernel in drivers
+🛠 I'm looking to collaborate on the Linux Kernel in drivers or memory allocation
 
 🖥 Ask me about computers and new bleeding edge UI changes in GNOME, KDE, or Ubuntu Yaru.
 
