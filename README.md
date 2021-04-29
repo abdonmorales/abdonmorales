@@ -13,6 +13,8 @@
 💾 Fun fact: I started to learn code when I first used my new computer in early 2015/2012
 
 ☎️ How to reach me: abdon.morales13_2022@outlook.com or in Discussion of this repository
+
+![Abdon's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdonmorales&show_icons=true&theme=radical)
 <!--
 **abdonmorales/abdonmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
