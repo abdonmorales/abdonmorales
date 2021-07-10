@@ -2,7 +2,7 @@
 
 😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called Morales Research Corp.
 
-👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux. [Sun/OS Linux and Mainframe/OS Enterprise Linux](https://gitlab.com/morales-research-corporation)
+👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux, and I am also working on my fork of Audacity (link is located at the bottom). [Sun/OS Linux and Mainframe/OS Enterprise Linux](https://gitlab.com/morales-research-corporation)
 
 🏃 I'm currently learning Python, JavaScript, Dart, Flutter, GoLang, Rust, and C (In progress).
 
@@ -13,6 +13,9 @@
 💾 Fun fact: I started to learn code when I first used my new computer in early 2015/2012
 
 ☎️ How to reach me: abdon.morales13_2022@outlook.com or in Discussion of this repository
+
+https://github.com/moralesresearch/OpenAudacity
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonmorales&layout=compact&theme=dark"></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdonmorales&show_icons=true&theme=radical)"></p>
