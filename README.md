@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called Morales Research Corp.
+😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 16 years old, and running my own startup company called [Morales Research Corp](https://github.com/moralesresearch).
 
 👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux, and I am also working on my fork of Audacity (link is located at the bottom). [Sun/OS Linux and Mainframe/OS Enterprise Linux](https://gitlab.com/morales-research-corporation)
 
