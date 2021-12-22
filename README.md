@@ -14,7 +14,6 @@
 
 ☎️ How to reach me: abdon.morales13_2022@outlook.com or in Discussion of this repository
 
-https://github.com/moralesresearch/OpenAudacity
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonmorales&layout=compact&theme=dark"></p>
 
