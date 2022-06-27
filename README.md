@@ -12,7 +12,7 @@
 
 💾 Fun fact: I started to learn code when I first used my new computer in early 2015/2012
 
-☎️ How to reach me: abdon.morales13_2022@outlook.com or in Discussion of this repository
+☎️ How to reach me: abdon.morales@moralesresearch.org or in Discussion of this repository
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonmorales&layout=compact&theme=dark"></p>
