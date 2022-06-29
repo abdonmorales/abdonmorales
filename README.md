@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 17 years old, and running my own startup company called [Morales Research Corp](https://github.com/moralesresearch).
+😁 My name is Abdon Morales, I am CS HS student from IDEA Montopolis and work here in Austin Texas, I am 17 years old, and running my own startup company called [Morales Research Corp](https://gitlab.com/morales-research-corporation).
 
 👉 I'm currently working on my own Linux distrobutions which are based on Red Hat Enterprise Linux. [Sun/OS Linux and Morales Research Unix](https://gitlab.com/morales-research-corporation)
 
-🏃 I'm currently learning Python, JavaScript, Dart, Flutter, GoLang, Rust, and C (In progress).
+🏃 I'm currently learning Python, JavaScript, Dart, Flutter, Rust, and C (In progress).
 
 🛠 I'm looking to collaborate on the Linux Kernel in drivers or memory allocation
 
