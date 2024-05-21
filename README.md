@@ -4,11 +4,11 @@
 
 😁 My name is Abdon Morales, I am a Computer Science and Economics student at the University of Texas at Austin, I am 19 years old, and running my own startup company called [Morales Research Corp](https://git.moralesresearch.org/).
 
-👉 I'm currently working on some small side-projects [Checkout my GitHub repos](https://github.com/abdonmorales?tab=repositories)
+👉 I'm currently working on some small side-projects.
 
 🏃 I'm currently learning Python, JavaScript, TypeScript, Rust, and C++ (In progress).
 
-☎️ How to reach me: abdonmorales@utexas.edu or in Discussion of this repository
+☎️ How to reach me: abdonm@cs.utexas.edu
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonmorales&layout=compact&theme=synthwave"></p>
