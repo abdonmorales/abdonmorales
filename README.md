@@ -2,7 +2,7 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AbdonMorales7?style=social)](https://twitter.com/AbdonMorales7)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-abdonmorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdonmorales/)](https://www.linkedin.com/in/abdonmorales/)
 
-😁 My name is Abdon Morales, I am a Computer Science and Economics student at the University of Texas at Austin, I am 19 years old, I enjoy playing and watching soccer during my spare time. Also, recently I have moved away from club soccer to national soccer with the upcoming World Cu, Euro '24, and the Summer Olympics '24.
+😁 My name is Abdon Morales, I am a Computer Science and Economics student at the University of Texas at Austin, I am 19 years old, I enjoy playing and watching soccer during my spare time. Also, recently I have moved away from club soccer to national soccer with the upcoming World Cup, Euro '24, and the Summer Olympics '24.
 
 🏃 I'm currently learning Python, Swift, Rust, and C++ (In progress).
 
