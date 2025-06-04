@@ -1,10 +1,9 @@
 ### Hello fellow Gitters! 👋
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/AbdonMorales7?style=social)](https://twitter.com/AbdonMorales7)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-abdonmorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdonmorales/)](https://www.linkedin.com/in/abdonmorales/)
 
-😁 My name is Abdon Morales, I am a Computer Science and Economics student at the University of Texas at Austin, I am 19 years old, I enjoy playing and watching soccer during my spare time. Also, I recently moved away from club soccer to international soccer with the upcoming World Cup, Euro '24, and the Summer Olympics '24.
+😁 My name is Abdon Morales, I am a Computer Science and Economics student at the University of Texas at Austin, I am 20 years old, I enjoy playing and watching soccer during my spare time. Also, I recently moved away from club soccer to international soccer with the upcoming World Cup, Euro '24, and the Summer Olympics '24.
 
-🏃 I'm currently learning Python, Swift, Rust, and C++ (In progress).
+🏃 I'm currently learning Swift and C++ (In progress).
 
 📫 How to reach me: <a href="mailto:abdonm@cs.utexas.edu">abdonm@cs.utexas.edu</a>
 
