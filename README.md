@@ -18,6 +18,7 @@
 <!--
 and running my own startup company called [Morales Research Corp](https://git.moralesresearch.org/)
 -->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
