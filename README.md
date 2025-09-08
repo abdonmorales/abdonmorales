@@ -5,7 +5,7 @@
 
 🏃 I'm currently learning Swift and C++ (In progress).
 
-📫 How to reach me: <a href="mailto:abdonm@cs.utexas.edu">abdonm@cs.utexas.edu</a>
+📫 How to reach me: <a href="mailto:abdonmorales@utexas.edu">abdonmorales@utexas.edu</a>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdonmorales&layout=compact&theme=synthwave"></p>
@@ -15,9 +15,9 @@
 **abdonmorales/abdonmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👉 I'm currently working on some small side-projects.
-
+<!--
 and running my own startup company called [Morales Research Corp](https://git.moralesresearch.org/)
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
