@@ -26,11 +26,7 @@
 | 🗳️ [**election26**](https://github.com/abdonmorales/election26) | Live projection site for the 2026 Texas U.S. Senate and Governor races, with county maps and a projection desk. A GitHub Actions pipeline keeps official returns, turnout, polls, and market odds up to date. | JavaScript, GitHub Pages, GitHub Actions |
 | 🧩 [**lc3-vscode**](https://github.com/abdonmorales/lc3-vscode) | VS Code extension for LC-3 assembly (Patt & Patel ISA, as taught in UT ECE 306). It has syntax highlighting, hover docs with binary encodings, autocomplete, and a snippet library. | TypeScript |
 | 🐧 [**porthole**](https://github.com/abdonmorales/porthole) | Porthole 0.7.0, a GTK frontend for Gentoo's Portage package manager, migrated from Python 2/GTK 2 to Python 3/GTK 3 with CI, a pytest suite, and an EAPI 8 ebuild. | Python, PyGObject |
-| 🔌 [**haas-demo**](https://github.com/abdonmorales/haas-demo) | Hardware-as-a-Service reference app for sharing lab equipment across projects, with user and hardware data kept in two separate MongoDB databases. | React, TypeScript, Spring Boot, MongoDB |
 | 📐 [**TeX-M**](https://github.com/abdonmorales/TeX-M) | LaTeX note-taking templates for UT math, CS, and engineering classes. | LaTeX |
-| ✍️ [**Wordy**](https://github.com/abdonmorales/Wordy) | Portable TUI text editor. | Python |
-| 📈 [**Graphy**](https://github.com/abdonmorales/Graphy) | Simple graphing calculator. | Python |
-| 🗓️ [**courseIO**](https://github.com/abdonmorales/courseIO) | Self-hosted, single-user course schedule manager (beta). | HTML, CSS, JavaScript |
 | ⚙️ [**dotfiles**](https://github.com/abdonmorales/dotfiles) | My Zsh, Git, and Doom Emacs configs, plus a setup script that backs up and symlinks them. | Shell |
 
 ## 📚 School work
@@ -39,7 +35,7 @@
 
 | Course | Project | What it is |
 | --- | --- | --- |
-| ECE 461 | [**ECE461Project**](https://github.com/RishiWadhwa/ECE461Project) | Team Hardware-as-a-Service proof of concept (based on Utah's POWDER program). I work on the TypeScript frontend. |
+| ECE 461L | [**ECE461Project**](https://github.com/RishiWadhwa/ECE461Project) | Team Hardware-as-a-Service proof of concept (based on Utah's POWDER program). I work on the TypeScript frontend. |
 | CS 329E, Elements of Mobile Computing | [**FlashMind**](https://github.com/abdonmorales/cs371L-project) | iOS flashcard study app with Firebase email sign-in. Swift. |
 | EE 316, Digital Logic Design | [**artix7-clock**](https://github.com/abdonmorales/artix7-clock) | Programmable stopwatch/timer for the Basys3 (Artix-7) board, designed as an HLSM and then a datapath plus controller FSM, with a self-checking test bench. Verilog. |
 | ECE 422C | [**Longhorn Network**](https://github.com/abdonmorales/longhorn-network-lab) | Student social-network simulation: Gale-Shapley roommate matching, Dijkstra referral paths, and multithreaded chat and friend requests. Java. |
@@ -71,8 +67,6 @@ Notes, labs, and materials I kept from each class.
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <br>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
   <br>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
